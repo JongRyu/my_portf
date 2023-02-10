@@ -1,0 +1,24 @@
+{
+  "name": "timer-hugo-github",
+  "version": "1.0.0",
+  "description": "<h1 align=center>Timer Hugo</h1>\r <p align=center>Timer is suitable for creative companies, agencies, and freelancers which need a professional way to showcase their projects, services, and sell their products.</p>\r <h2 align=\"center\"> <a target=\"_blank\" href=\"https://demo.gethugothemes.com/timer\" rel=\"nofollow\">Demo</a> | <a  target=\"_blank\" href=\"https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Ftimer%2Fsite%2F&form_factor=desktop\">Page Speed (87%)</a></h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JongRyu/my_portf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JongRyu/my_portf/issues"
+  },
+  "homepage": "https://github.com/JongRyu/my_portf#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.1.0",
+    "tinacms": "^1.2.0"
+  }
+}
